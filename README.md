@@ -1,4 +1,4 @@
-# kontrolna-zadaca
+# kontrolna-zadaca (Patrik Tovernić Obšivač)
 
 ## Project setup
 ```
